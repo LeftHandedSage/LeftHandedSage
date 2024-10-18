@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, economics, music.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
-- 📫 reache me here
+- 📫 reach me here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
